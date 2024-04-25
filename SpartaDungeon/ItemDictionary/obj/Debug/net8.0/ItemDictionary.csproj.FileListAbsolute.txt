@@ -1,0 +1,14 @@
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\bin\Debug\net8.0\ItemDictionary.exe
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\bin\Debug\net8.0\ItemDictionary.deps.json
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\bin\Debug\net8.0\ItemDictionary.runtimeconfig.json
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\bin\Debug\net8.0\ItemDictionary.dll
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\bin\Debug\net8.0\ItemDictionary.pdb
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.AssemblyInfoInputs.cache
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.AssemblyInfo.cs
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.csproj.CoreCompileInputs.cache
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.dll
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\refint\ItemDictionary.dll
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.pdb
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ItemDictionary.genruntimeconfig.cache
+C:\Users\gaega\Desktop\visual studio\SpartaDungeon\ItemDictionary\obj\Debug\net8.0\ref\ItemDictionary.dll
